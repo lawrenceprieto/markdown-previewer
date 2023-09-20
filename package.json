@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   },
-  "homepage": "http://lawrenceprieto.github.io/random-quote-generator"
+  "homepage": "http://lawrenceprieto.github.io/markdown-previewer"
 }
